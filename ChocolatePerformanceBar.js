@@ -1,0 +1,1 @@
+// ChocolatePerformanceBar.js placeholder content
