@@ -1,5 +1,4 @@
-{
-  "name": "performance-bar-frontend",
+{"name": "performance-bar-frontend",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -13,6 +12,5 @@
     "lucide-react": "^0.260.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
-  }
-}
+    "vite": "^4.0.0"}
+
